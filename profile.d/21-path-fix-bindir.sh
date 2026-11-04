@@ -1,0 +1,2 @@
+PATH="$BINDIR;$PATH"
+

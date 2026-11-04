@@ -1,0 +1,2 @@
+USRDIR="$USRBIN/usr"
+

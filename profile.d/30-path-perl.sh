@@ -1,0 +1,2 @@
+addpath "perl/perl/bin"
+

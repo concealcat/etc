@@ -1,0 +1,2 @@
+addpath "gh/bin"
+

@@ -1,0 +1,2 @@
+BINDIR="$HOME/.local/bin"
+

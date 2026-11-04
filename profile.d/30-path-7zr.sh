@@ -1,0 +1,2 @@
+addpath "7zr"
+
